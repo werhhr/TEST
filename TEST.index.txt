@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>新田圍智障群益會</title>
+	</head>
+	<body>
+		<h1>新田圍智障事件小問答</h1>
+		<from>
+		<ol>
+		<p>1. 一滴眼淚4張紙巾出處</p>
+		傻撚線<input type='checkbox'>
+		</br>黃龍<input type='checkbox'>
+		</br>黃文龍<input type='checkbox'>
+		</br>王龍<input type='checkbox'>
+
+		</br><p>2. 幾百萬隻腳主角</p>
+		傻撚線<input type='checkbox'>
+		</br>黃龍<input type='checkbox'>
+		</br>黃文龍<input type='checkbox'>
+		</br>王龍<input type='checkbox'>
+
+		</br><p>3. 新田圍邊個最賤</p>
+		多撚鈍<input type='checkbox'>
+		</br>32<input type='checkbox'>
+		</br>天線<input type='checkbox'>
+		</br>法<input type='checkbox'>
+		</ol>
+		</from>
+		<input type='submit'name='ok'>
+	</body>
+</html>
